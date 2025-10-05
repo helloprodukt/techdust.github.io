@@ -3,7 +3,7 @@ Techdust is a modern tech publication exploring the latest in software, startups
 
 We have written in-depth reviews and insights on platforms and products such as:
 
-https://abokidollar.com – Your go-to source for real-time currency exchange rates in Nigeria and across Africa.
+[Aboki Dollar](https://abokidollar.com) – Your go-to source for real-time currency exchange rates in Nigeria and across Africa.
 
 Techdust aims to spotlight innovative digital products and startups transforming the African and global tech ecosystem.
 
